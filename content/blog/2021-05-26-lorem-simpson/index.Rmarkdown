@@ -2,8 +2,8 @@
 title: "Lorem Simpson"
 subtitle: ""
 excerpt: "An .Rmarkdown post"
-date: 2021-05-26
-author: "Alison Hill"
+date: 2024-05-26
+author: "Joan Borton"
 draft: false
 images:
 series:
