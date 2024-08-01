@@ -118,7 +118,7 @@ enableEmoji = true
   [[menu.header]]
     name = "Resume"
     title = "Resume"
-    url = "/resume/JoanBortonResume.pdf"
+    url = "/Resume/"
     weight = 4
     
   # Configure footer  
