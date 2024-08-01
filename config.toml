@@ -119,7 +119,7 @@ enableEmoji = true
     name = "Resume"
     title = "Resume"
     url = "/Resume/"
-    weight = 5
+    weight = 4
     
   # Configure footer  
   [[menu.footer]]

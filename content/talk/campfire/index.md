@@ -1,13 +1,13 @@
 ---
 title: "A campfire"
 subtitle: "Testing"
-excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
+excerpt: "Insert content of recent projects or interests, travel etc"
 date: 2021-01-12
 date_end: "2021-01-13"
 show_post_time: false
 event: "rstudio::global(2021)"
 event_url: https://global.rstudio.com
-author: "Alison Hill"
+author: "Joan Borton"
 location: "Sydney, Australia"
 draft: false
 # layout options: single, single-sidebar
@@ -18,13 +18,13 @@ links:
 - icon: door-open
   icon_pack: fas
   name: website
-  url: https://bakeoff.netlify.com/
-- icon: github
+  url: https://lakingsinsider.com/
+- icon: twitter
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
+  url: https://x.com/lakings?lang=en
 ---
 
 {{< here >}}
 
-I'm really excited to give this talk! Stay tuned for video and slides.
+I'm really excited to pursue this project! Stay tuned for video and slides.
