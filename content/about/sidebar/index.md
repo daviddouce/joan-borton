@@ -12,8 +12,8 @@ link_list:
   url: https://taprootfoundation.org/
 - name: John Muir Foundation
   url: https://www.johnmuirfoundation.org/home
-- name: People
-  url: https://en.wikipedia.org/wiki/People
+- name: Los Angeles Kings
+  url: https://www.nhl.com/kings/
 ---
 
 ** index doesn't contain a body, just front matter above.
